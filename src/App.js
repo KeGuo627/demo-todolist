@@ -67,7 +67,6 @@ class App extends Component {
               onChange={(e) => {
                 this.setState({ value: e.target.value });
               }}
-              onClick={this.onToggle}
             />
             <button onClick={this.onAddTask}>Add Item</button>
           </form>
