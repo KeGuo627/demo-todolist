@@ -7,7 +7,7 @@
   color: black;
   padding-top: 4rem;
 }
-.task.Done {
+.task-done {
   text-decoration: line-through;
 }
 
